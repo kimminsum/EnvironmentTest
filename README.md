@@ -1,3 +1,3 @@
 # EnvironmentTest
 
-https://github.com/kimminsum/EnvironmentTest.git
+git push https://github.com/kimminsum/EnvironmentTest.git
